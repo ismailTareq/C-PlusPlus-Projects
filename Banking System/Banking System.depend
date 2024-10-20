@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1729251392 source:g:\embedded\udemy\udemy - beginning c++ programming - from beginner to beyond 2024-1\challanges\banking system\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+	<vector>
+	<map>
+
