@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1729255824 source:g:\embedded\udemy\udemy - beginning c++ programming - from beginner to beyond 2024-1\challanges\tic tac toe\main.cpp
+	"TIC_TAC_TOE.h"
+
+1729252890 g:\embedded\udemy\udemy - beginning c++ programming - from beginner to beyond 2024-1\challanges\tic tac toe\tic_tac_toe.h
+	<iostream>
+	<ctime>
+
+1729255824 source:g:\embedded\udemy\udemy - beginning c++ programming - from beginner to beyond 2024-1\challanges\tic tac toe\tic_tac_toe.cpp
+	"TIC_TAC_TOE.h"
+

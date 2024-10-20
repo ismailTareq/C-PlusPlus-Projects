@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1729260178 source:g:\embedded\udemy\udemy - beginning c++ programming - from beginner to beyond 2024-1\challanges\snake game\snake.cpp
+	"Snake.h"
+
+1729260178 g:\embedded\udemy\udemy - beginning c++ programming - from beginner to beyond 2024-1\challanges\snake game\snake.h
+
+1729273976 source:g:\embedded\udemy\udemy - beginning c++ programming - from beginner to beyond 2024-1\challanges\snake game\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+

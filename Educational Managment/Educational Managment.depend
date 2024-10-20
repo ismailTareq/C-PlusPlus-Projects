@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1729337104 source:g:\embedded\udemy\udemy - beginning c++ programming - from beginner to beyond 2024-1\challanges\educational managment\helper.cpp
+	"Helper.h"
+
+1729337142 g:\embedded\udemy\udemy - beginning c++ programming - from beginner to beyond 2024-1\challanges\educational managment\helper.h
+	<cmath>
+	<cassert>
+	<algorithm>
+	<string>
+	<sstream>
+	<memory>
+	<vector>
+
+1729432208 source:g:\embedded\udemy\udemy - beginning c++ programming - from beginner to beyond 2024-1\challanges\educational managment\main.cpp
+	"User_Flow_control.h"
+
+1729431416 source:g:\embedded\udemy\udemy - beginning c++ programming - from beginner to beyond 2024-1\challanges\educational managment\user_flow_control.cpp
+	"User_Flow_control.h"
+
+1729426140 g:\embedded\udemy\udemy - beginning c++ programming - from beginner to beyond 2024-1\challanges\educational managment\user_flow_control.h
+	<iostream>
+	<string>
+	"students_manager.h"
+	"doctors_manager.h"
+	"assignment_manager.h"
+	"courses_manager.h"
+	<vector>
+	<fstream>
+
+1729351318 g:\embedded\udemy\udemy - beginning c++ programming - from beginner to beyond 2024-1\challanges\educational managment\assignment.h
+	<string>
+	<vector>
+	<memory>
+
+1729418160 source:g:\embedded\udemy\udemy - beginning c++ programming - from beginner to beyond 2024-1\challanges\educational managment\doctors_manager.cpp
+	"doctors_manager.h"
+
+1729418710 g:\embedded\udemy\udemy - beginning c++ programming - from beginner to beyond 2024-1\challanges\educational managment\doctors_manager.h
+	<vector>
+	<memory>
+	"Doctor.h"
+
+1729432492 source:g:\embedded\udemy\udemy - beginning c++ programming - from beginner to beyond 2024-1\challanges\educational managment\student.cpp
+	"Student.h"
+	<iomanip>
+
+1729412728 g:\embedded\udemy\udemy - beginning c++ programming - from beginner to beyond 2024-1\challanges\educational managment\student.h
+	<string>
+	<vector>
+	<memory>
+	"Course.h"
+	"courses_manager.h"
+	"assignment.h"
+	"Assignment_Solution.h"
+
+1729358352 g:\embedded\udemy\udemy - beginning c++ programming - from beginner to beyond 2024-1\challanges\educational managment\course.h
+	<string>
+	<vector>
+	<iostream>
+	<memory>
+	"Student.h"
+	"assignment.h"
+	"assignment_manager.h"
+
+1729340096 g:\embedded\udemy\udemy - beginning c++ programming - from beginner to beyond 2024-1\challanges\educational managment\assignment_solution.h
+	<string>
+	<vector>
+	<memory>
+
+1729427386 source:g:\embedded\udemy\udemy - beginning c++ programming - from beginner to beyond 2024-1\challanges\educational managment\students_manager.cpp
+	"students_manager.h"
+
+1729424714 g:\embedded\udemy\udemy - beginning c++ programming - from beginner to beyond 2024-1\challanges\educational managment\students_manager.h
+	<vector>
+	<memory>
+	"Student.h"
+
+1729341744 source:g:\embedded\udemy\udemy - beginning c++ programming - from beginner to beyond 2024-1\challanges\educational managment\system_flow.cpp
+
+1729351574 source:g:\embedded\udemy\udemy - beginning c++ programming - from beginner to beyond 2024-1\challanges\educational managment\assignment.cpp
+	"assignment.h"
+
+1729424948 source:g:\embedded\udemy\udemy - beginning c++ programming - from beginner to beyond 2024-1\challanges\educational managment\assignment_manager.cpp
+	"assignment_manager.h"
+
+1729424948 g:\embedded\udemy\udemy - beginning c++ programming - from beginner to beyond 2024-1\challanges\educational managment\assignment_manager.h
+	<vector>
+	<iostream>
+	<memory>
+	<string>
+	"assignment.h"
+
+1729412704 g:\embedded\udemy\udemy - beginning c++ programming - from beginner to beyond 2024-1\challanges\educational managment\courses_manager.h
+	<iostream>
+	<vector>
+	<memory>
+	"Course.h"
+
+1729358468 source:g:\embedded\udemy\udemy - beginning c++ programming - from beginner to beyond 2024-1\challanges\educational managment\course.cpp
+	"Course.h"
+
+1729412694 source:g:\embedded\udemy\udemy - beginning c++ programming - from beginner to beyond 2024-1\challanges\educational managment\courses_manager.cpp
+	"courses_manager.h"
+
+1729432646 source:g:\embedded\udemy\udemy - beginning c++ programming - from beginner to beyond 2024-1\challanges\educational managment\doctor.cpp
+	"Doctor.h"
+	<iomanip>
+
+1729418896 g:\embedded\udemy\udemy - beginning c++ programming - from beginner to beyond 2024-1\challanges\educational managment\doctor.h
+	<iostream>
+	<vector>
+	<memory>
+	"Course.h"
+	"assignment_manager.h"
+	"courses_manager.h"
+	"doctors_manager.h"
+
